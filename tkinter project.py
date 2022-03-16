@@ -120,7 +120,7 @@ def logout():
         return
 
 def cancel():
-    password_count.set(2)
+    password_count.set(3)
     username_Entry.delete(0, 'end')
     password_Entry.delete(0, 'end')
     username_Entry.insert(0, 'Enter username')
