@@ -1,2 +1,2 @@
 # python
-simple tkinter project with caculator.
+simple tkinter project with calculator.
